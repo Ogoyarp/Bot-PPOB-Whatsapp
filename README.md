@@ -52,8 +52,8 @@ Scan kode QR atau masukkan Pairing Code yang muncul di log terminal menggunakan 
 Buka browser dan akses alamat berikut:
 http://IP-VPS-KAMU/panel/admin.php
 
--Password Default: rahasia123
--Segera ubah password kamu di menu Pengaturan Server untuk keamanan.
+- Password Default: rahasia123
+- Segera ubah password kamu di menu Pengaturan Server untuk keamanan.
 
 ---
 
