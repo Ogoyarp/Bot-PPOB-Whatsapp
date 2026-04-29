@@ -28,7 +28,7 @@ Saya sudah menyediakan skrip instalasi otomatis. Jalankan perintah berikut di te
 
 1. **Klon repositori ini:**
    ```bash
-   git clone https://github.com/adiprayogo/Bot-PPOB-Whatsapp.git
+   git clone https://github.com/ogoyarp/Bot-PPOB-Whatsapp.git
    cd Bot-PPOB-Whatsapp
 
 2. **Berikan izin dan jalankan installer:**
